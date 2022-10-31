@@ -1,0 +1,13 @@
+{
+	"name": "buildchanges",
+	"description": "Build the changenotes feed and blog for FeedLand.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "buildchanges.js",
+	"license": "MIT",
+	"version": "0.4.0",
+	"dependencies" : {
+		"daveutils": "*",
+		"opml": "*",
+		"oldschoolblog": "*"
+		} 
+	}
